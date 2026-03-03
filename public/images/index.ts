@@ -16,7 +16,7 @@ import computerOfficeResponsive2 from "./computer-office-responsive-image.png";
 import officeImg1 from "./office-img.png";
 import confetti from "./confetti.png";
 import banner from "./banner.png";
-import heroImage2 from "./heroImage2.png";
+import heroImage2 from "./heroImage2.jpg";
 import logoImage from "./heroImage2.png";
 import heroImage3 from "./heroImage3.png";
 import heroImage4 from "./heroImage4.png";
